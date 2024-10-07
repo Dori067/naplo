@@ -5,6 +5,8 @@
 
 #### Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanulóknak.
 
+#### Jelenlegi cél: új API rendszer alkalmazása 
+
 [![Downloads](https://img.shields.io/github/downloads-pre/refilc/naplo/total?&logo=github&label=Downloads)](https://github.com/refilc/naplo/releases) &nbsp; [![Discord](https://img.shields.io/discord/1111649116020285532?logo=discord&label=Discord)](https://dc.refilc.hu)
 
 ## Setup
